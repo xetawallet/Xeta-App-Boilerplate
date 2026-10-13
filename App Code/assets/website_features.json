@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Feature one",
+    "description": "Describe a useful capability your app provides."
+  },
+  {
+    "title": "Feature two",
+    "description": "Explain another feature in clear, user-focused language."
+  },
+  {
+    "title": "Privacy",
+    "description": "Summarize your app's actual data and privacy practices."
+  },
+  {
+    "title": "Open source",
+    "description": "Describe the source code availability, or edit this feature."
+  }
+]
