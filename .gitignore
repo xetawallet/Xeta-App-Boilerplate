@@ -1,0 +1,11 @@
+# Release and test packages
+*.apk
+*.aab
+*.pyc
+__pycache__/
+
+# Local signing credentials
+**/key.properties
+**/*.jks
+**/*.keystore
+**/local.properties
